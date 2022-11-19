@@ -1,5 +1,3 @@
-# Blogs by 4nkitd
-
 Thoughts and learning of a DIY / DIA kind of guy. `reminder it's a text heavy blog.`
 
 ## Latest of the Week
@@ -14,7 +12,6 @@ Thoughts and learning of a DIY / DIA kind of guy. `reminder it's a text heavy bl
 
 - [Nov 2022](_listing/nov_2022) - `MODE : Relax`
 
-```
 ***WARNING START***
 
 - Their are a lot of spelling mistake
