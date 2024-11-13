@@ -1,6 +1,6 @@
 Thoughts and learning of a DIY / DIA kind of guy. `reminder it's a text heavy blog.`
 
-## Latest of the Week
+## Latest of the Week -
 
 ### [golang for everything](_post/golang.md) `posted on 20th Nov 2022`
 
